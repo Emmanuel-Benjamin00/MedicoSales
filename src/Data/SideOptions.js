@@ -1,9 +1,9 @@
 const SideOptions = [
     {
         menu: "Dashboard",
-        activeline:"/public/Active Side Blue Line.svg",
-        img:"/public/Dashboard.svg",
-        activimg:"/public/Dashboard Blue.svg",
+        activeline:"../Active Side Blue Line.svg",
+        img:"/Dashboard.svg",
+        activimg:"/Dashboard Blue.svg",
         isActive:true
     },
     {
