@@ -1,51 +1,51 @@
 const SideOptions = [
     {
         menu: "Dashboard",
-        activeline:"/images/side-icons/Active Side Blue Line.svg",
-        img:"/images/side-icons/Dashboard.svg",
-        activimg:"/images/side-icons/Dashboard Blue.svg",
+        activeline:"/images/Active Side Blue Line.svg",
+        img:"/images/Dashboard.svg",
+        activimg:"/images/Dashboard Blue.svg",
         isActive:true
     },
     {
         menu: "Lab Test",
-        activeline:"/images/side-icons/Active Side Blue Line.svg",
-        img:"/images/side-icons/Lab Test.svg",
-        activimg:"/images/side-icons/Lab Test Blue.svg",
+        activeline:"/images/Active Side Blue Line.svg",
+        img:"/images/Lab Test.svg",
+        activimg:"/images/Lab Test Blue.svg",
         isActive:false
     },
     {
         menu: "Appointment",
-        activeline:"/images/side-icons/Active Side Blue Line.svg",
-        img:"/images/side-icons/Appointment.svg",
-        activimg:"/images/side-icons/Appointment Blue.svg",
+        activeline:"/images/Active Side Blue Line.svg",
+        img:"/images/Appointment.svg",
+        activimg:"/images/Appointment Blue.svg",
         isActive:false
     },
     {
         menu: "Medicine Order",
-        activeline:"/images/side-icons/Active Side Blue Line.svg",
-        img:"/images/side-icons/Medicine Order.svg",
-        activimg:"/images/side-icons/Medicine Order Blue.svg",
+        activeline:"/images/Active Side Blue Line.svg",
+        img:"/images/Medicine Order.svg",
+        activimg:"/images/Medicine Order Blue.svg",
         isActive:false
     },
     {
         menu: "Message",
-        activeline:"/images/side-icons/Active Side Blue Line.svg",
-        img:"/images/side-icons/message.svg",
-        activimg:"/images/side-icons/message Blue.svg",
+        activeline:"/images/Active Side Blue Line.svg",
+        img:"/images/message.svg",
+        activimg:"/images/message Blue.svg",
         isActive:false
     },
     {
         menu: "Payment",
-        activeline:"/images/side-icons/Active Side Blue Line.svg",
-        img:"/images/side-icons/Payment.svg",
-        activimg:"/images/side-icons/Payment Blue.svg",
+        activeline:"/images/Active Side Blue Line.svg",
+        img:"/images/Payment.svg",
+        activimg:"/images/Payment Blue.svg",
         isActive:false
     },
     {
         menu: "Settings",
-        activeline:"/images/side-icons/Active Side Blue Line.svg",
-        img:"/images/side-icons/settings.svg",
-        activimg:"/images/side-icons/settings Blue.svg",
+        activeline:"/images/Active Side Blue Line.svg",
+        img:"/images/settings.svg",
+        activimg:"/images/settings Blue.svg",
         isActive:false
     },
 
