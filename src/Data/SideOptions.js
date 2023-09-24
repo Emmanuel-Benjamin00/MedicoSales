@@ -1,51 +1,51 @@
 const SideOptions = [
     {
         menu: "Dashboard",
-        activeline:"../Active Side Blue Line.svg",
+        activeline:"/Active Side Blue Line.svg",
         img:"/Dashboard.svg",
         activimg:"/Dashboard Blue.svg",
         isActive:true
     },
     {
         menu: "Lab Test",
-        activeline:"/public/Active Side Blue Line.svg",
-        img:"/public/Lab Test.svg",
-        activimg:"/public/Lab Test Blue.svg",
+        activeline:"/Active Side Blue Line.svg",
+        img:"/Lab Test.svg",
+        activimg:"/Lab Test Blue.svg",
         isActive:false
     },
     {
         menu: "Appointment",
-        activeline:"/public/Active Side Blue Line.svg",
-        img:"/public/Appointment.svg",
-        activimg:"/public/Appointment Blue.svg",
+        activeline:"/Active Side Blue Line.svg",
+        img:"/Appointment.svg",
+        activimg:"/Appointment Blue.svg",
         isActive:false
     },
     {
         menu: "Medicine Order",
-        activeline:"/public/Active Side Blue Line.svg",
-        img:"/public/Medicine Order.svg",
-        activimg:"/public/Medicine Order Blue.svg",
+        activeline:"/Active Side Blue Line.svg",
+        img:"/Medicine Order.svg",
+        activimg:"/Medicine Order Blue.svg",
         isActive:false
     },
     {
         menu: "Message",
-        activeline:"/public/Active Side Blue Line.svg",
-        img:"/public/message.svg",
-        activimg:"/public/message Blue.svg",
+        activeline:"/Active Side Blue Line.svg",
+        img:"/message.svg",
+        activimg:"/message Blue.svg",
         isActive:false
     },
     {
         menu: "Payment",
-        activeline:"/public/Active Side Blue Line.svg",
-        img:"/public/Payment.svg",
-        activimg:"/public/Payment Blue.svg",
+        activeline:"/Active Side Blue Line.svg",
+        img:"/Payment.svg",
+        activimg:"/Payment Blue.svg",
         isActive:false
     },
     {
         menu: "Settings",
-        activeline:"/public/Active Side Blue Line.svg",
-        img:"/public/settings.svg",
-        activimg:"/public/settings Blue.svg",
+        activeline:"/Active Side Blue Line.svg",
+        img:"/settings.svg",
+        activimg:"/settings Blue.svg",
         isActive:false
     },
 
