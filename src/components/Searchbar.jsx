@@ -10,7 +10,7 @@ function Searchbar() {
                         <div className="col-md-7">
                             <div className="input-group mb-3">
                                 <span className="input-group-text search-icon" id="basic-addon1"><img
-                                    src="./images/search-normal.svg" alt="" /></span>
+                                    src="./public/search-normal.svg" alt="" /></span>
                                 <input type="text" className="form-control search-bar" placeholder="Search"
                                     aria-label="Username" aria-describedby="basic-addon1" />
                             </div>
@@ -20,9 +20,9 @@ function Searchbar() {
 
 
                 <button type="button" className="btn border-black position-relative">
-                    <img src="./images/notification-bing.svg" alt="" />
+                    <img src="./public/notification-bing.svg" alt="" />
                     <span className="position-absolute top-0 start-100 translate-middle badge ">
-                        <img src="./images/Ellipse 1.svg" alt="" />
+                        <img src="./public/Ellipse 1.svg" alt="" />
                     </span>
                 </button>
             </div>
